@@ -1,0 +1,18 @@
+{
+    "name": "danny_ddj/notice",
+    "description": "a package contains most types of notice platform",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Danny Xue",
+            "email": "danny_ddj@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Notice\\": "src/"
+        }
+    }
+}
